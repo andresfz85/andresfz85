@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
 
  <img decoding="async" src="https://img.shields.io/badge/LinkedIn-0077B5" href= "https://www.linkedin.com/in/andres-fernandez-a0875423/" width="50px"/>
-  
+
+  <h1>
   Hola soy Andrés ¡Mucho gusto, encantado de conocerte!
   <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA1eTJwMzFtYzM2d25jcW84MnQybmtyaWFkOGZkdDFybnBidXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKJNFVZ4xCMriFy/giphy.gif" width="50px"/>
 </h1>
