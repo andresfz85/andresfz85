@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img decoding="async" src="banner_p.png" width="800"/>
 </div>
 <div id="badges" align="center">
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fernandez-a0875423/)
+  (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-fernandez-a0875423/)
 <h1>
   Hola soy Andrés ¡Mucho gusto, encantado de conocerte!
-  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA1eTJwMzFtYzM2d25jcW84MnQybmtyaWFkOGZkdDFybnBidXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKJNFVZ4xCMriFy/giphy.gif" width="30px"/>
+  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA1eTJwMzFtYzM2d25jcW84MnQybmtyaWFkOGZkdDFybnBidXkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKJNFVZ4xCMriFy/giphy.gif" width="50px"/>
 </h1>
 
