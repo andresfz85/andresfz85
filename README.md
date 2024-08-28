@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="banner_p.png" width="800"/>
+  <img decoding="async" src="banner_gif.gif" width="800"/>
 </div>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/andres-fernandez-a0875423/">
